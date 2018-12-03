@@ -7,7 +7,7 @@ This app flips a virtual coin and tells the user the result.
 **Some sample utterances:**  
 "Alexa, ask CoinFlip to flip a coin"  
 "Alexa, ask CoinFlip to flip one"  
-"Alexs, ask COinFlip to toss a coin"  
+"Alexs, ask CoinFlip to toss a coin"  
 
 **Responses:**  
 "I flipped a heads"  
