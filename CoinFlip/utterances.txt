@@ -1,0 +1,6 @@
+CoinFlip flip a coin
+CoinFlip flip one
+CoinFlip toss a coin
+CoinFlip toss one
+CoinFlip throw a coin
+CoinFlip throw one
